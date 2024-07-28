@@ -1,0 +1,6 @@
+e785ebe HEAD@{0}: revert: Revert "ще один коміт цього файлу"
+2119ce5 HEAD@{1}: commit: ще один коміт цього файлу
+f656aac HEAD@{2}: reset: moving to f656aac
+af8d21e HEAD@{3}: reset: moving to af8d21e
+af8d21e HEAD@{4}: commit: створення файла text2.txt помилково
+f656aac HEAD@{5}: commit (initial): створення файла text.txt
